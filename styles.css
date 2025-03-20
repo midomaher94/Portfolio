@@ -140,7 +140,7 @@ h1{
     transform: scale(1.1);
 }
 .container2 h3, .mo {
-    font-size: 30px;
+    font-size: 20px;
     background: linear-gradient(45deg, cyan, magenta);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
