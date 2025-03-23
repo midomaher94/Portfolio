@@ -566,3 +566,6 @@ p {
         padding: 10px 20px;
     }
 }
+.mo {
+    list-style: none;
+}
